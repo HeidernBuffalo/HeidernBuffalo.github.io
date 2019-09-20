@@ -58,6 +58,21 @@
 额……
 [![preview](Myself/IMG_1764(Small).JPG)](Myself/IMG_1764.JPG)
 
+## 沙漠之美
+
+[![preview](Nature/IMG_1722(Small).JPG)](Nature/IMG_1722.JPG)
+
+[![preview](Nature/IMG_1826(Small).JPG)](Nature/IMG_1826.JPG)
+
+[![preview](Nature/IMG_1859(Small).JPG)](Nature/IMG_1859.JPG)
+
+[![preview](Nature/IMG_2297(Small).JPG)](Nature/IMG_2297.JPG)
+
+[![preview](Nature/IMG_2954(Small).JPG)](Nature/IMG_2954.JPG)
+
+[![preview](Nature/IMG_2955(Small).JPG)](Nature/IMG_2955.JPG)
+
+[![preview](Nature/IMG_2958(Small).JPG)](Nature/IMG_2958.JPG)
 ## 做最干净的房车
 
 吸尘器
@@ -67,7 +82,11 @@
 ## 搓衣板上骑车
 
 
+
+
+
 ## 五光十色的艺术作品
+[![preview](Temple/2P0A9644(Small).jpg)](Temple/2P0A9644.jpg)
 
 
 
@@ -77,6 +96,59 @@
 
 不过，并不是所有的车子都能算改装车。官方的指南里面说，如果你的车仅仅是上面贴了一层膜，或者拆掉了壳子，那么是不会被承认为改装车的。
 
+## 烧火人（The Man Burn）
+
+火人是什么来历呢？
+[![preview](Man/2P0A0333(Small).JPG)](Man/2P0A0333.JPG)
+[![preview](Man/2P0A0353(Small).JPG)](Man/2P0A0353.JPG)
+[![preview](Man/2P0A0409(Small).JPG)](Man/2P0A0409.JPG)
+
+焰火开始
+[![preview](Man/2P0A0483(Small).JPG)](Man/2P0A0483.JPG)
+[![preview](Man/2P0A0528(Small).JPG)](Man/2P0A0528.JPG)
+[![preview](Man/2P0A0542(Small).JPG)](Man/2P0A0542.JPG)
+[![preview](Man/2P0A0596(Small).JPG)](Man/2P0A0596.JPG)
+[![preview](Man/2P0A0621(Small).JPG)](Man/2P0A0621.JPG)
+[![preview](Man/2P0A0628(Small).JPG)](Man/2P0A0628.JPG)
+[![preview](Man/2P0A0666(Small).JPG)](Man/2P0A0666.JPG)
+
+焚我残躯，熊熊圣火。怜我世人，忧患实多。
+[![preview](Man/2P0A0732(Small).JPG)](Man/2P0A0732.JPG)
+[![preview](Man/2P0A0745(Small).JPG)](Man/2P0A0745.JPG)
+[![preview](Man/2P0A0786(Small).JPG)](Man/2P0A0786.JPG)
+[![preview](Man/2P0A0809(Small).JPG)](Man/2P0A0809.JPG)
+[![preview](Man/2P0A0819(Small).JPG)](Man/2P0A0819.JPG)
+
+
+
+
+## 烧庙 (The Temple Burn)
+
+火人节有个核心建筑，可以称为The Temple，翻译成中文就是庙。这次火人节，这个庙在广场的最远端，叫做Larry's Memorial。Larry Harvey是火人节的联合创始人之一，2018年去世，所以今年就以他的名字命名Temple。
+
+这个建筑里里外外贴满了大家的哀痛，思念，和其他难以忘怀的东西。
+
+[![preview](Temple/2P0A9632(Small).jpg)](Temple/2P0A9632.jpg)
+
+[![preview](Temple/IMG_1774(Small).JPG)](Temple/IMG_1774.JPG)
+
+[![preview](Temple/IMG_1781(Small).JPG)](Temple/IMG_1781.JPG)
+
+[![preview](Temple/2P0A0983(Small).JPG)](Temple/2P0A0983.JPG)
+
+周日晚上8点，庙被付之一炬。
+
+[![preview](Temple/IMG_2302(Small).JPG)](Temple/IMG_2302.JPG)
+
+火从角落开始蔓延。这时没有欢呼，没有喧哗，只有寂静和低声抽泣。
+[![preview](Temple/2P0A1003(Small).JPG)](Temple/2P0A1003.JPG)
+
+当整个庙被点燃的时候，一波灼热的冲击波迎面袭来。毫不夸张地说，有几十秒钟，是我这辈子直接经历的最高温。当时我坐在第一排，身体本能地想向后退却。离火焰近得多的志愿者们，却个个站得像山一样稳稳当当。
+[![preview](Temple/2P0A1021(Small).JPG)](Temple/2P0A1021.JPG)
+
+二十多分钟的燃烧后，庙已经坍塌，现场还是一片寂静。人慢慢地离开。
+[![preview](Temple/IMG_2324(Small).JPG)](Temple/IMG_2324.JPG)
+
 ## 性
 
-## 杀时间
+## 消磨时间
