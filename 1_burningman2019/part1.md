@@ -117,25 +117,25 @@
 
 ### 4.1 五花八门
 
-[![preview](CampStreet/2P0A9696(Small).JPG)](CampStreet/2P0A9696.JPG)
-[![preview](CampStreet/2P0A9842(Small).JPG)](CampStreet/2P0A9842.JPG)
-[![preview](CampStreet/2P0A9848(Small).JPG)](CampStreet/2P0A9848.JPG)
-[![preview](CampStreet/2P0A9875(Small).JPG)](CampStreet/2P0A9875.JPG)
+[![preview](CampStreet/2P0A9696(Small).jpg)](CampStreet/2P0A9696.jpg)
+[![preview](CampStreet/2P0A9842(Small).jpg)](CampStreet/2P0A9842.jpg)
+[![preview](CampStreet/2P0A9848(Small).jpg)](CampStreet/2P0A9848.jpg)
+[![preview](CampStreet/2P0A9875(Small).jpg)](CampStreet/2P0A9875.jpg)
 
 我最喜欢的作品——猫神社。十字架上钉着一只玩具猫，作救主状。旁边还有几件配套。
 [![preview](Temple/2P0A9644(Small).jpg)](Temple/2P0A9644.jpg)
 
 [![preview](Art/2P0A0007(Small).JPG)](Art/2P0A0007.JPG)
 [![preview](Art/2P0A0308(Small).JPG)](Art/2P0A0308.JPG)
-[![preview](Art/2P0A9648(Small).JPG)](Art/2P0A9648.JPG)
-[![preview](Art/2P0A9657(Small).JPG)](Art/2P0A9657.JPG)
-[![preview](Art/2P0A9674(Small).JPG)](Art/2P0A9674.JPG)
+[![preview](Art/2P0A9648(Small).jpg)](Art/2P0A9648.jpg)
+[![preview](Art/2P0A9657(Small).jpg)](Art/2P0A9657.jpg)
+[![preview](Art/2P0A9674(Small).jpg)](Art/2P0A9674.jpg)
 
 这个作品的作者是我们邻居。
-[![preview](Art/2P0A9805(Small).JPG)](Art/2P0A9805.JPG)
+[![preview](Art/2P0A9805(Small).jpg)](Art/2P0A9805.jpg)
 
 看到了Hadoop。
-[![preview](Art/2P0A9840(Small).JPG)](Art/2P0A9840.JPG)
+[![preview](Art/2P0A9840(Small).jpg)](Art/2P0A9840.jpg)
 
 ### 4.2 五光十色
 
