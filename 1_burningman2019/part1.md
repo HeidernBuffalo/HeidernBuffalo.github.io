@@ -227,7 +227,7 @@
 
 性在火人节是一个永恒的主题。从穿着上讲，无论男女，裸露上身是家常便饭，全裸也不足为奇。
 
-[![preview](CampStreet/2P0A9687(Small).JPG)](CampStreet/2P0A9687.JPG)
+[![preview](CampStreet/2P0A9687(Small).jpg)](CampStreet/2P0A9687.jpg)
 [![preview](Sex/2P0A0031(Small).JPG)](Sex/2P0A0031.JPG)
 [![preview](Sex/IMG_2822(Small).JPG)](Sex/IMG_2822.JPG)
 
