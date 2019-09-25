@@ -107,30 +107,77 @@
 
 所以，如果你带自行车，请务必带可以减震的！
 
+
 头盔没有人戴，别带了。
+
+[![preview](CampStreet/2P0A9884(Small).JPG)](CampStreet/2P0A9884.JPG)
+
 
 ## 4. 艺术
 
-### 4.1 五光十色
+### 4.1 五花八门
 
+[![preview](CampStreet/2P0A9696(Small).JPG)](CampStreet/2P0A9696.JPG)
+[![preview](CampStreet/2P0A9842(Small).JPG)](CampStreet/2P0A9842.JPG)
+[![preview](CampStreet/2P0A9848(Small).JPG)](CampStreet/2P0A9848.JPG)
+[![preview](CampStreet/2P0A9875(Small).JPG)](CampStreet/2P0A9875.JPG)
+
+我最喜欢的作品——猫神社。十字架上钉着一只玩具猫，作救主状。旁边还有几件配套。
 [![preview](Temple/2P0A9644(Small).jpg)](Temple/2P0A9644.jpg)
 
+[![preview](Art/2P0A0007(Small).JPG)](Art/2P0A0007.JPG)
+[![preview](Art/2P0A0308(Small).JPG)](Art/2P0A0308.JPG)
+[![preview](Art/2P0A9648(Small).JPG)](Art/2P0A9648.JPG)
+[![preview](Art/2P0A9657(Small).JPG)](Art/2P0A9657.JPG)
+[![preview](Art/2P0A9674(Small).JPG)](Art/2P0A9674.JPG)
 
+这个作品的作者是我们邻居。
+[![preview](Art/2P0A9805(Small).JPG)](Art/2P0A9805.JPG)
 
-### 4.2 改装车(Mutant Vehicles)
+看到了Hadoop。
+[![preview](Art/2P0A9840(Small).JPG)](Art/2P0A9840.JPG)
 
-改装车是火人节的宠儿，不但吸引眼球，收获欢呼声，而且可以代替自行车作为日常交通工具使用。营地里也有专门针对改装车的加油服务。
+### 4.2 五光十色
 
-不过，并不是所有的车子都能算改装车。官方的指南里面说，如果你的车仅仅是上面贴了一层膜，或者拆掉了壳子，那么是不会被承认为改装车的。
+火人节的夜晚很美，到处都是灯火。有灯，也有火。
+
+[![preview](CampStreet/IMG_1689(Small).JPG)](CampStreet/IMG_1689.JPG)
+[![preview](CampStreet/IMG_1703(Small).JPG)](CampStreet/IMG_1703.JPG)
+[![preview](Art/2P0A0266(Small).JPG)](Art/2P0A0266.JPG)
+[![preview](Art/2P0A9912(Small).JPG)](Art/2P0A9912.JPG)
+[![preview](Art/2P0A1047(Small).JPG)](Art/2P0A1047.JPG)
+[![preview](Art/IMG_2963(Small).JPG)](Art/IMG_2963.JPG)
+[![preview](Art/2P0A0039(Small).JPG)](Art/2P0A0039.JPG)
+
+### 4.3 改装车（Mutant Vehicles）
+
+改装车是火人节的宠儿，不但吸引眼球，收获欢呼，而且可以代替自行车作为日常交通工具使用。营地里也有专门针对改装车的加油服务。
+
+科普一下，并不是所有的车子都能算改装车的。官方的指南里面说，如果你的车仅仅是上面贴了一层膜，或者喷了一层漆，或者拆掉了壳子，那么是不会被承认为改装车的。
+
+[![preview](MutantVehicles/2P0A0003(Small).JPG)](MutantVehicles/2P0A0003.JPG)
+[![preview](MutantVehicles/2P0A0087(Small).JPG)](MutantVehicles/2P0A0087.JPG)
+[![preview](MutantVehicles/2P0A0088(Small).JPG)](MutantVehicles/2P0A0088.JPG)
+[![preview](MutantVehicles/2P0A0101(Small).JPG)](MutantVehicles/2P0A0101.JPG)
+[![preview](MutantVehicles/2P0A0269(Small).JPG)](MutantVehicles/2P0A0269.JPG)
+[![preview](MutantVehicles/2P0A0287(Small).JPG)](MutantVehicles/2P0A0287.JPG)
+[![preview](MutantVehicles/2P0A0300(Small).JPG)](MutantVehicles/2P0A0300.JPG)
+[![preview](MutantVehicles/2P0A0305(Small).JPG)](MutantVehicles/2P0A0305.JPG)
+[![preview](MutantVehicles/2P0A0329(Small).JPG)](MutantVehicles/2P0A0329.JPG)
+[![preview](MutantVehicles/2P0A0330(Small).JPG)](MutantVehicles/2P0A0330.JPG)
+[![preview](MutantVehicles/2P0A9654(Small).JPG)](MutantVehicles/2P0A9654.JPG)
+[![preview](MutantVehicles/IMG_1737(Small).JPG)](MutantVehicles/IMG_1737.JPG)
+[![preview](MutantVehicles/IMG_2203(Small).JPG)](MutantVehicles/IMG_2203.JPG)
+
 
 ## 5. 烧火人（The Man Burn）
 
-火人是什么来历呢？
+这个要在倒数第二晚烧掉的木头人代表什么意义呢？我一直不知道。
 [![preview](Man/2P0A0333(Small).JPG)](Man/2P0A0333.JPG)
 [![preview](Man/2P0A0353(Small).JPG)](Man/2P0A0353.JPG)
 [![preview](Man/2P0A0409(Small).JPG)](Man/2P0A0409.JPG)
 
-焰火开始
+焰火开始。
 [![preview](Man/2P0A0483(Small).JPG)](Man/2P0A0483.JPG)
 [![preview](Man/2P0A0528(Small).JPG)](Man/2P0A0528.JPG)
 [![preview](Man/2P0A0542(Small).JPG)](Man/2P0A0542.JPG)
@@ -161,7 +208,7 @@
 
 [![preview](Temple/2P0A0983(Small).JPG)](Temple/2P0A0983.JPG)
 
-周日晚上8点，庙被付之一炬。
+最后一晚，8点，庙被付之一炬。
 
 [![preview](Temple/IMG_2302(Small).JPG)](Temple/IMG_2302.JPG)
 
@@ -176,4 +223,42 @@
 
 ## 7. 性
 
-## 8. 消磨时间
+### 7.1 释放自我
+
+性在火人节是一个永恒的主题。从穿着上讲，无论男女，裸露上身是家常便饭，全裸也不足为奇。
+
+[![preview](CampStreet/2P0A9687(Small).JPG)](CampStreet/2P0A9687.JPG)
+[![preview](Sex/2P0A0031(Small).JPG)](Sex/2P0A0031.JPG)
+[![preview](Sex/IMG_2822(Small).JPG)](Sex/IMG_2822.JPG)
+
+
+### 7.2 Orgy Dome
+
+有个叫做Orgy Dome的地方，可以理解为约炮钟点房。
+
+饥渴的人们在门口排起了队。
+[![preview](Sex/2P0A0014(Small).JPG)](Sex/2P0A0014.JPG)
+
+我们没有去过。
+
+### 7.3 艳舞
+
+[![preview](Sex/2P0A9943(Small).JPG)](Sex/2P0A9943.JPG)
+[![preview](Sex/2P0A9949(Small).JPG)](Sex/2P0A9949.JPG)
+[![preview](Sex/2P0A9950(Small).JPG)](Sex/2P0A9950.JPG)
+
+[![preview](Sex/2P0A0133(Small).JPG)](Sex/2P0A0133.JPG)
+[![preview](Sex/2P0A0144(Small).JPG)](Sex/2P0A0144.JPG)
+[![preview](Sex/2P0A0200(Small).JPG)](Sex/2P0A0200.JPG)
+[![preview](Sex/2P0A0208(Small).JPG)](Sex/2P0A0208.JPG)
+[![preview](Sex/2P0A0212(Small).JPG)](Sex/2P0A0212.JPG)
+
+### 7.4 BDSM
+
+打开官方App一看，到处都是BDSM入门和表演俱乐部。
+
+骄傲的S笑成了花
+[![preview](Sex/2P0A0910(Small).JPG)](Sex/2P0A0910.JPG)
+[![preview](Sex/2P0A0915(Small).JPG)](Sex/2P0A0915.JPG)
+
+
