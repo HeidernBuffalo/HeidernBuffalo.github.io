@@ -8,9 +8,18 @@ My Secure Home has a distinct difference that all the texts and images within ea
 
 ## Installation
 
-Search for “My Secure Home” on App Store and you can download.  The Android version is being reviewed in Play Store right now and will be out soon.
+### iOS
+
+Search for “My Secure Home” on App Store and you can download.
 
 <img src="pic/App_store.png" alt="drawing" width="300"/>
+
+### Android
+
+Search for “Secure Home” in the Google Play Store, or use the [download link](https://play.google.com/store/apps/details?id=com.k8sllc.securehome).
+
+<img src="pic/Play_store.png" alt="drawing" width="300"/>
+
 
 Note our App does not send annoying trash notification at all.  Please grant it permissions when asked! Otherwise, you will lose important features.
 
