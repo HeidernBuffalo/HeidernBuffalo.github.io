@@ -26,6 +26,9 @@ Click "CREATE AN ACCOUNT" at the bottom and you will be guided step-by-step to c
 
 <img src="pic/Main_page.png" alt="drawing" width="300"/>
 
+<img src="pic/Bottom_menu.png" alt="drawing" width="300"/>
+
+
 Use the bottom-right button to go to settings page, where you can modify your name, your email, profile picture, etc.
 
 ### Language selection
