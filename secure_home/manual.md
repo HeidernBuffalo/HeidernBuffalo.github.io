@@ -1,6 +1,6 @@
 # My Secure Home - User’s Manual
 
-## Why this App?
+## Why This App?
 
 As an ex-Facebook engineer, I really hate the fact that giant companies are peeking into everyone's privacy.  I hope there is a tool for everyone in the world that allows them to store their information securely.  At the same time, I want to make the collabrations with small social circles easier.
 
@@ -14,7 +14,7 @@ Search for “My Secure Home” on App Store and you can download.  The Android 
 
 Note our App does not send annoying trash notification at all.  Please grant it permissions when asked! Otherwise, you will lose important features.
 
-## Account management
+## Account Management
 
 ### Registration
 
@@ -22,7 +22,7 @@ Note our App does not send annoying trash notification at all.  Please grant it 
 
 Click "CREATE AN ACCOUNT" at the bottom and you will be guided step-by-step to create your account using your cell phone.  Please be aware that if you don't receive the verification code, please check if you blocked the sender (650) 409-9686.  Contact us support@k8sllc.com if you have problems.
 
-### Profile customization
+### Profile Customization
 
 <img src="pic/Main_page.png" alt="drawing" width="300"/>
 
@@ -31,7 +31,7 @@ Click "CREATE AN ACCOUNT" at the bottom and you will be guided step-by-step to c
 
 Use the bottom-right button to go to settings page, where you can modify your name, your email, profile picture, etc.
 
-### Language selection
+### Language Selection
 
 We support American English and Simplified Chinese.
 
@@ -39,11 +39,11 @@ We support American English and Simplified Chinese.
 
 You can log out using the LOGOUT button in the settings page.
 
-## Circle / Family management
+## Circle / Family Management
 
 There are two types of social circles we support: "Circle" for friends and activities, and "Family" for the real families. At this moment, they have no real differences. But in the future this may change.
 
-### Create Circle / family
+### Create Circle / Family
 
 Every normal user can create up to 5 circles / families.  VIP users have much higher limits.
 
@@ -64,9 +64,11 @@ In the circle / family, you can use the menu to display or export a QR code. Oth
 
 Use the bottom-right button to scan and join the family. You will be prompted to verify the password. If the verification passes, the circle creator will receive a push notification.  They can then approve the joining request.  
 
+<img src="pic/Main_page.png" alt="drawing" width="300"/>
+
 Note in this verification step, the circle password is not transmitted online!
 
-### Export locally-cached passwords
+### Export Locally-cached Passwords
 
 In the settings menu, you can export locally-cached passwords if you have provided them after logging in.  Note this will only be available after you entered the circle passwords.
 
@@ -109,11 +111,11 @@ You can check out the circle logs to see who has recently modified anything.
 
 We are working on it. It will be out in Jan 2020.
 
-## Contact us
+## Contact Us
 
 Use the "contact us" button to email us anytime!
 
-## Clear cache
+## Clear Cache
 
 <img src="pic/Settings.png" alt="drawing" width="300"/>
 
