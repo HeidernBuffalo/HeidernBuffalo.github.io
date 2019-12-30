@@ -2,9 +2,9 @@
 
 ## Why This App?
 
-As an ex-Facebook engineer, I really hate the fact that giant companies are peeking into everyone's privacy.  I hope there is a tool for everyone in the world that allows them to store their information securely.  At the same time, I want to make the collabrations with small social circles easier.
+As an ex-Facebook engineer, I really hate the fact that giant companies are peeking into everyone's privacy.  I hope there is a tool for everyone in the world that allows them to store their information securely.  At the same time, I want to make the collaborations with small social circles easier.
 
-My Secure Home has a distinct difference that all the texts and images within each social circle is encrypted using the circle password, which makes it impossible to read unless the password is possessed.  This eliminates the possiblity of others peeking into your data.
+My Secure Home has a distinct difference that all the texts and images within each social circle is encrypted using the circle password, which makes it impossible to read unless the password is possessed.  This eliminates the possibility of others peeking into your data.
 
 ## Installation
 
@@ -99,7 +99,7 @@ Events is for circle-specific events. The creation is very intuitive.  Note that
 
 ## Chats
 
-Chats are self-explantory.  Currently, it may feel slower when sending messages because there is some optimization work missing.  However, this will be fixed.
+Chats are self-explanatory.  Currently, it may feel slower when sending messages because there is some optimization work missing.  However, this will be fixed.
 
 ## Circle Logs
 
