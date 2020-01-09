@@ -2,9 +2,9 @@
 
 ## TL;DR
 
-"My Secure Home" is an app created by an ex-Facebook engineer who wants to provide the best protection of people's privacy. The permanently-free app is providing social-circle-based collaborative features such as to-do lists, events, chats, albums, and MORE TO COME. This app encrypts all your texts and images using the Advanced Encryption Standard(AES) algorithm and the password that only you possess. It can be downloaded from App Store (https://apps.apple.com/us/app/my-secure-home/id1470199852) or Google Play Store (https://play.google.com/store/apps/details?id=com.k8sllc.securehome). Check out the user's manual at https://blog.shanhuang.net/secure_home/manual.html.
+"My Secure Home" is an app created by an ex-Facebook engineer who wants to provide the best protection of people's privacy. The permanently-free app is providing social-circle-based collaborative features such as to-do lists, events, chats, albums, and MORE TO COME. This app encrypts all your texts and images using the Advanced Encryption Standard(AES) algorithm and the password that only you possess. It can be downloaded from [App Store](https://apps.apple.com/us/app/my-secure-home/id1470199852) or [Google Play Store](https://play.google.com/store/apps/details?id=com.k8sllc.securehome). Check out the [user's manual](https://blog.shanhuang.net/secure_home/manual.html).
 
-"My Secure Home"是由一位前Facebook工程师创建的手机应用，他希望为人们的隐私提供最安全的保护。这款永久免费的应用程序提供了基于社交圈的协作功能，例如待办事项列表，事件管理，聊天，相册和更多正在开发的功能。此应用程序使用高级加密标准（AES）算法和只有您拥有的密码来加密所有文本和图像。您可以从App Store (https://apps.apple.com/us/app/my-secure-home/id1470199852)或Google Play商店 (https://play.google.com/store/apps/details?id=com.k8sllc.securehome)下载。您可以查看用户手册(https://blog.shanhuang.net/secure_home/manual.html)。
+"My Secure Home"是由一位前Facebook工程师创建的手机应用，他希望为人们的隐私提供最安全的保护。这款永久免费的应用程序提供了基于社交圈的协作功能，例如待办事项列表，事件管理，聊天，相册和更多正在开发的功能。此应用程序使用高级加密标准（AES）算法和只有您拥有的密码来加密所有文本和图像。您可以从[App Store](https://apps.apple.com/us/app/my-secure-home/id1470199852)或[Google Play商店](https://play.google.com/store/apps/details?id=com.k8sllc.securehome)下载。您可以查看[用户手册](https://blog.shanhuang.net/secure_home/manual.html)。
 
 
 ## Why This App?
