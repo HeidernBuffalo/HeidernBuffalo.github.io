@@ -200,7 +200,7 @@ A: All information you can see in the App are stored on our servers. In your cir
 
 
 ---
-Q: How do I back up my cirle/family password?
+Q: How do I back up my circle/family password?
 
 A: You are responsible for backing up your own passwords. When you join a circle/family, you type in the password and it will be cached locally. In the settings menu you can export locally-cached passwords as images, or copy them to the clipboard and save somewhere. Please back them up if you have not done so! When there are multiple members in the circle, the password is shared, so you can still ask other circle members to get the password.  However, if all members have lost the password, then the information is no longer recoverable.
 
