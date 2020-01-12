@@ -179,7 +179,7 @@ Q: Why do you use the password-based AES symmetric encryption, not an asymmetric
 A: It is possible to solve the problem using an asymmetric encryption. However, there are 3 problems: (1) the asymmetric encryption is much slower than the symmetric encryption; (2) we will need to govern the key exchanges so every client can get the public keys off all other clients, which introduces possibilities of man-in-the-middle attacks in case our code is imperfect; and (3) the clients will be responsible to back up their own private keys, which is even harder than backing up their passwords.
 
 问：你们为什么使用基于密码的AES对称加密，而不是非对称加密？
-答：如果要采取非对称加密的方式解决问题，不是不可以，但是有三个难点：(1)非对称加密要比对称加密慢很多；(2)每个client都必须获取其他所有client的公钥，公钥传输的复杂度会提升，而且如果我们服务端出了问题，存在中间人攻击的可能性；(3)客户必须保存备份好自己的私钥，否则信息照样丢失，这件事情比保存密码更难做到。
+答：如果要采取非对称加密的方式解决问题，不是不可以，但是有三个难点：(1)非对称加密要比对称加密慢很多；(2)每个客户端都必须获取其他所有客户端的公钥，公钥传输的复杂度会提升，而且如果我们服务端出了问题，存在中间人攻击的可能性；(3)客户必须保存备份好自己的私钥，否则信息照样丢失，这件事情比保存密码更难做到。
 
 ---
 
