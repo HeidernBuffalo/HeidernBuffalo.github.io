@@ -175,6 +175,7 @@ We cache images for faster image loading.  Use the top-right button to clear all
 ## FAQ
 
 Q: Why do you use the password-based AES symmetric encryption, not an asymmetric encryption?
+
 A: It is possible to solve the problem using an asymmetric encryption. However, there are 3 problems: (1) the asymmetric encryption is much slower than the symmetric encryption; (2) we will need to govern the key exchanges so every client can get the public keys off all other clients, which introduces possibilities of man-in-the-middle attacks in case our code is imperfect; and (3) the clients will be responsible to back up their own private keys, which is even harder than backing up their passwords.
 
 问：你们为什么使用基于密码的AES对称加密，而不是非对称加密？
@@ -183,6 +184,7 @@ A: It is possible to solve the problem using an asymmetric encryption. However, 
 ---
 
 Q: How do I recover the contents if I lose my cell phone?
+
 A: All the contents in our App are backed up in the cloud. If you lose your cell phone, you can still use the original personal phone number and password to login. You will need to type in the cirlce / family passwords to unlock them and find all ontents.
 
 问：如果我丢失了手机，怎么恢复App数据？
@@ -190,6 +192,7 @@ A: All the contents in our App are backed up in the cloud. If you lose your cell
 
 ---
 Q: What do you store on your servers?
+
 A: All information you can see in the App are stored on our servers. In your circles, you can use the "On server" toggle on the top-right to see which information is encrypted and which is not.
 
 问：你们的服务器存储了哪些信息？
@@ -198,6 +201,7 @@ A: All information you can see in the App are stored on our servers. In your cir
 
 ---
 Q: How do I back up my cirle/family password?
+
 A: You are responsible for backing up your own passwords. When you join a circle/family, you type in the password and it will be cached locally. In the settings menu you can export locally-cached passwords as images, or copy them to the clipboard and save somewhere. Please back them up if you have not done so! When there are multiple members in the circle, the password is shared, so you can still ask other circle members to get the password.  However, if all members have lost the password, then the information is no longer recoverable.
 
 问：我怎样备份圈子/家庭密码？
