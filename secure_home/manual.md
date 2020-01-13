@@ -179,6 +179,7 @@ Q: Why do you use the password-based AES symmetric encryption, not an asymmetric
 A: It is possible to solve the problem using an asymmetric encryption. However, there are 3 problems: (1) the asymmetric encryption is much slower than the symmetric encryption; (2) we will need to govern the key exchanges so every client can get the public keys off all other clients, which introduces possibilities of man-in-the-middle attacks in case our code is imperfect; and (3) the clients will be responsible to back up their own private keys, which is even harder than backing up their passwords.
 
 问：你们为什么使用基于密码的AES对称加密，而不是非对称加密？
+
 答：如果要采取非对称加密的方式解决问题，不是不可以，但是有三个难点：(1)非对称加密要比对称加密慢很多；(2)每个客户端都必须获取其他所有客户端的公钥，公钥传输的复杂度会提升，而且如果我们服务端出了问题，存在中间人攻击的可能性；(3)客户必须保存备份好自己的私钥，否则信息照样丢失，这件事情比保存密码更难做到。
 
 ---
@@ -188,6 +189,7 @@ Q: How do I recover the contents if I lose my cell phone?
 A: All the contents in our App are backed up in the cloud. If you lose your cell phone, you can still use the original personal phone number and password to login. You will need to type in the cirlce / family passwords to unlock them and find all ontents.
 
 问：如果我丢失了手机，怎么恢复App数据？
+
 答：我们App里面的的所有信息都是云备份的。手机丢失以后，您可以用原来的个人手机号/密码登录账号，再输入圈子/家庭密码就能看到之前所有的信息。
 
 ---
@@ -196,6 +198,7 @@ Q: What do you store on your servers?
 A: All information you can see in the App are stored on our servers. In your circles, you can use the "On server" toggle on the top-right to see which information is encrypted and which is not.
 
 问：你们的服务器存储了哪些信息？
+
 答：所有您能用客户端看到的信息都在服务器上保存。进入圈子内，用右上角的切换按钮可以看到哪些是加密存储，哪些不是。
 
 
@@ -205,5 +208,6 @@ Q: How do I back up my circle/family password?
 A: You are responsible for backing up your own passwords. When you join a circle/family, you type in the password and it will be cached locally. In the settings menu you can export locally-cached passwords as images, or copy them to the clipboard and save somewhere. Please back them up if you have not done so! When there are multiple members in the circle, the password is shared, so you can still ask other circle members to get the password.  However, if all members have lost the password, then the information is no longer recoverable.
 
 问：我怎样备份圈子/家庭密码？
+
 答：密码由您自己保存。进入圈子的时候输入一次，然后本机就有缓存。在设置里可以导出本地缓存的密码——可以导成图片或者剪贴板。建议您赶紧备份。如果有多个人在一个圈子，大家是共享这个密码的，所以一个人丢了还可以问别人。如果所有人都把密码丢了，那您的信息就没有了。
 
