@@ -49,7 +49,7 @@ Search for “My Secure Home” on App Store, or use the [download link](https:/
 
 ### Android
 
-Search for “Secure Home” in the Google Play Store, or use the [download link](https://play.google.com/store/apps/details?id=com.k8sllc.securehome).
+Search for “My Secure Home” in the Google Play Store, or use the [download link](https://play.google.com/store/apps/details?id=com.k8sllc.securehome).
 
 <img src="pic/Play_store.png" alt="drawing" width="300"/>
 
